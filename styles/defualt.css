@@ -52,6 +52,7 @@ a
 	text-decoration: none;
 	color: rgba(255, 91, 46, 0.747);
 	font-weight: bold;
+   
 }
 
 a:hover
@@ -82,4 +83,11 @@ form{
 {
     width:400px;
     font-size:14pt;
+}
+.centered
+{
+    text-align: center;
+}
+main{
+    text-align: center;
 }
